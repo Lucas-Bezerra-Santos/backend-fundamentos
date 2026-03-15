@@ -24,16 +24,19 @@
 
 **Total: ~9 meses** (estudando ~10-15h/semana)
 
-## Livros — Ordem de Leitura
+## Leituras Obrigatorias
+
+Resumos completos e detalhados de todos os livros no diretorio [`leituras/`](leituras/README.md).
 
 | # | Livro | Por quê |
 |---|-------|---------|
-| 1 | **Clean Code** — Robert C. Martin | Base de código limpo |
-| 2 | **Clean Architecture** — Robert C. Martin | Arquitetura de aplicação |
+| 1 | [**Clean Code** — Robert C. Martin](leituras/01-clean-code.md) | Base de código limpo |
+| 2 | [**Clean Architecture** — Robert C. Martin](leituras/02-clean-architecture.md) | Arquitetura de aplicação |
 | 3 | **Designing Data-Intensive Applications** — Martin Kleppmann | **O mais importante** — sistemas distribuídos |
-| 4 | **System Design Interview Vol. 1 & 2** — Alex Xu | System design prático |
-| 5 | **Domain-Driven Design** — Eric Evans | DDD (ler após experiência prática) |
-| 6 | **Building Microservices** — Sam Newman | Microservices (ler por último) |
+|   | [Parte I: Fundamentos](leituras/03-ddia-parte-1-fundamentos.md) / [Parte II: Distribuidos](leituras/03-ddia-parte-2-dados-distribuidos.md) / [Parte III: Derivados](leituras/03-ddia-parte-3-dados-derivados.md) | |
+| 4 | [**System Design Interview Vol. 1 & 2** — Alex Xu](leituras/04-system-design-interview.md) | System design prático |
+| 5 | [**Domain-Driven Design** — Eric Evans](leituras/05-domain-driven-design.md) | DDD (ler após experiência prática) |
+| 6 | [**Building Microservices** — Sam Newman](leituras/06-building-microservices.md) | Microservices (ler por último) |
 
 ## Canais YouTube Essenciais
 
