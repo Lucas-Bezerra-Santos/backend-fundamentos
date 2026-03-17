@@ -4,9 +4,9 @@
 
 ## 1.1 HTTP em profundidade
 
-- [ ] HTTP/1.1, HTTP/2, HTTP/3 — [Hussein Nasser - HTTP Crash Course](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
-- [ ] REST — princípios, verbos, status codes, HATEOAS — [Traversy Media - REST API Concepts](https://www.youtube.com/watch?v=Q-BpqyOT3a8)
-- [ ] Headers, caching, content negotiation — [MDN HTTP Guide](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+- [X] HTTP/1.1, HTTP/2, HTTP/3 — [Hussein Nasser - HTTP Crash Course](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
+- [X] REST — princípios, verbos, status codes, HATEOAS — [Traversy Media - REST API Concepts](https://www.youtube.com/watch?v=Q-BpqyOT3a8)
+- [X] Headers, caching, content negotiation — [MDN HTTP Guide](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 
 ## 1.2 Além do REST
 
